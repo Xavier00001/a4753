@@ -7,5 +7,5 @@
 #'
 #' @examples
 myplot=function(x){
-  quad.lm$coef[1] +quad.lm$coef[2]*x  + quad.lm$coef[3]*x^2
+  0.86089580 +1.46959217*x -0.02745726*x^2
 }
